@@ -212,6 +212,9 @@ license_link: https://huggingface.co/Qwen/Qwen3.6-35B-A3B/blob/main/LICENSE
 pipeline_tag: image-text-to-text
 ---
 
+```
+
+
 # Qwen3.6-35B-A3B
 
 <img width="400px" src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.6/logo.png">
@@ -1242,9 +1245,6 @@ If you find our work helpful, feel free to give us a cite.
     month = {April},
     year = {2026}
 }
-```
-
-
 ```
 
 ## Contact Us
