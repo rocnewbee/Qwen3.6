@@ -3,7 +3,7 @@
 <div style="text-align: center">
   <img width="400px" src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.6/logo.png">
   <p>
-    <a href="qwenchat.online">💜 <b>Chat with Qwen</b></a> |
+    <a href="https://qwenchat.online">💜 <b>Chat with Qwen</b></a> |
     <a href="https://huggingface.co/collections/Rooc/qwen">🤗 Hugging Face</a> | 
     <a href="https://modelscope.cn/organization/qwen">🤖 ModelScope</a> | 
     📑 Paper |
