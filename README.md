@@ -3,13 +3,11 @@
 <div style="text-align: center">
   <img width="400px" src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.6/logo.png">
   <p>
-    <a href="https://chat.qwen.ai/">💜 <b>Qwen Studio</b></a> |
-    <a href="https://huggingface.co/Qwen">🤗 Hugging Face</a> | 
+    <a href="qwenchat.online">💜 <b>Chat with Qwen</b></a> |
+    <a href="https://huggingface.co/collections/Rooc/qwen">🤗 Hugging Face</a> | 
     <a href="https://modelscope.cn/organization/qwen">🤖 ModelScope</a> | 
     📑 Paper |
     📖 Documentation |
-    <a href="https://github.com/QwenLM/Qwen/blob/main/assets/wechat.png">💬 WeChat (微信)</a> |
-    <a href="https://discord.gg/CV4E9rpNSD">🫨 Discord</a>   
   </p>
 </div>
 
